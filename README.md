@@ -2,7 +2,7 @@
 
 Master in Finance student at **UChicago Booth**. I like hard questions that live in messy data, whether they come from markets, credit risk, or consumers. Before I trust a result, I test it on data it hasn't seen.
 
-🌐 [geangelina-h.github.io](https://geangelina-h.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/chuhan-huang-7b2040335) · ✉️ chuang30@chicagobooth.edu
+🌐 [geangelina-h.github.io](https://geangelina-h.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/angelina-huang-7b2040335) · ✉️ chuang30@chicagobooth.edu
 
 ---
 
