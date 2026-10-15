@@ -12,7 +12,7 @@ Master in Finance student at **Chicago Booth**. I build research pipelines in Py
 |---|---|
 | [**chinext-predictability**](https://github.com/geangelina-h/chinext-predictability) | Can you forecast ChiNext index spreads a month ahead? A two-layer OLS study with pre-specified rules, rebuilt from public data, with tests that guard against lookahead. |
 | [**asset-allocation-quant**](https://github.com/geangelina-h/asset-allocation-quant) | Did our judgment-based portfolio beat 7 systematic rules (mean-variance, risk parity, HRP), each re-estimated on past data only? Built with AI coding assistance. |
-| **Explaining Markets** *(coming soon)* | LLM signal research on 7,450 earnings events for the UChicago Booth × Optiver competition. Two entries ranked #2 and #5 in Q3 2026 (#2 of 199, preliminary). |
+| **Explaining Markets** *(coming soon)* | LLM signal research on 7,450 earnings events for the UChicago Booth × Optiver competition. 1st place prize winner in the Q3 2026 contest (#2 of 196 on the full leaderboard). |
 
 #### 🛠 Toolkit
 
